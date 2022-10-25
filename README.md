@@ -1,2 +1,0 @@
-# projetoscurso
-Curso desenvolvimento web 
